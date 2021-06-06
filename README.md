@@ -8,5 +8,9 @@ My name is Hayeon Kim.
 welcome to my `Project Room` 
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="파일:Python-logo-notext.svg - 위키백과, 우리 모두의 백과사전" style="zoom:25%;" />
+
+
+
+
+![Python :: 반복문! while에 대해 알아보자 #8 - IT에 취.하.개.](https://t1.daumcdn.net/cfile/tistory/99E01B4E5A4F4EB81B)
 
