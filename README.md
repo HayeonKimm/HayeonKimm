@@ -1,5 +1,5 @@
 ```
-hello, World. 
+Hello, World. 
 
 My name is Hayeon Kim.   
 
