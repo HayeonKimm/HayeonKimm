@@ -9,7 +9,7 @@ welcome to my `Project Room`
 
 language : 
 
-- Python, HTML, CSS
+- Python, HTML, CSS, SQL
 
 ```
 
