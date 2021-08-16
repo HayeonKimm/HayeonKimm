@@ -1,30 +1,18 @@
 ## Hayeonkimm
 
 
+
 ```
-
-- 1. 알고리즘 공부하기.
-- 2. 프로젝트 하기.
-- 3. 복습하기.
-
+1. 알고리즘 공부하기.
+2. 프로젝트 하기.
+3. 복습하기.
 
 language : 
 
 - Python, SQL, R, HTML
 ```
 
+![image](https://user-images.githubusercontent.com/85288036/129506490-a6ff2c70-6523-4044-a88b-76bfe528f59c.png)
 
 
-
-
-
-
-
-
-
-
-<p align="center">
-<img src= "http://hansworld.co.kr/files/attach/images/849/859/5ae0975bf70b5c1a201efa90679be5c6.png" width ='40%' height='100%'>
-</p>
-                                                                                                             
-                                                                                                                                     
+                                                                                                         
