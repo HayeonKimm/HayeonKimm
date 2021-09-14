@@ -19,7 +19,7 @@
 
 
 
-### Hello, I'm Hayeon im !
+### Hello, I'm Hayeon Kim !
 
 Good day!
 
