@@ -7,10 +7,10 @@
 
 
 
-- 🔭 I’m currently working on **traffic accident project**
-- 🌱 I’m currently learning **python,ubuntu,spark,aws**
-- 📫 How to reach me **hayeon.data@gmail.com**
-- ⚡ Fun fact **I think I'm funny**
+### - 🔭 I’m currently working on **traffic accident project**
+### - 🌱 I’m currently learning **python,ubuntu,spark,aws**
+### - 📫 How to reach me **hayeon.data@gmail.com**
+### - ⚡ Fun fact **I think I'm funny**
 
 
 
@@ -28,11 +28,11 @@
    
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='1000' /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='600' /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&locale=en" alt="hayeonkimm" width='1000'/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&locale=en" alt="hayeonkimm" width='600'/></p>
 
 
 
