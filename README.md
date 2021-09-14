@@ -28,7 +28,7 @@
    
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='420' /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='300' /></p>
 
 
 
