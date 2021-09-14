@@ -21,7 +21,7 @@
 
 ### Hello, I'm Hayeon Kim !
 
-Good day!
+#### Good day!
 
 I am interested in data science and machine learning and computer vision. 
 
