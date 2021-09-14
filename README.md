@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=hayeonkimm&&style=flat-square" align="right" />
 </div>  
 
-  
+
 
 <br/>  
 
@@ -12,19 +12,20 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/lionly_lion" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" /></a>
 
 
 
 
 
 
-### Hello, I'm Jiyeon Lee!
+### Hello, I'm Hayeon kim !
 
 Good day!
 
-I am a machine learning developer from South Korea 🇰🇷. I am interested in data science and deep learning and computer vision. I love reading, exercising and communicating! 
+I am interested in data science and machine learning and computer vision. 
+
+I love reading, exercising and communicating! 
 
 If you want to contact me, please leave me a message!
 
