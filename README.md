@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Hayeon kim</h1>
-<h3 align="center">A passionate developer from south korea</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayeonkimm&label=Profile%20views&color=0e75b6&style=flat" alt="hayeonkimm" /> </p>
 
 
 
 
 
-### - 🔭 I’m currently working on **traffic accident project**
-### - 🌱 I’m currently learning **python,ubuntu,spark,aws**
-### - 📫 How to reach me **hayeon.data@gmail.com**
-### - ⚡ Fun fact **I think I'm funny**
 
 
 
+
+    
+
+
+### Hi there 👋, my name is Hayeon kim
+#### ~korean creative Developer~
+![~korean creative Developer~](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm always want to study more !
+
+Skills:  PYTHON/MYSQL/ HTML / CSS
+
+- 🔭 I’m currently working on multicampus - 4 
+- 🌱 I’m currently learning machine learning, data engineering 
+- 👯 I’m looking to collaborate on google 
+- ⚡ Fun fact: funny (?) 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,18 +29,14 @@
 
 
 
-    
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayeonkimm)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/hayeonkimm)  
+
+![Profile views](https://gpvc.arturio.dev/hayeonkimm)  
      
    
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='400' /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&locale=en" alt="hayeonkimm" width='400'/></p>
-
-
-
