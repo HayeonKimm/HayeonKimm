@@ -11,7 +11,7 @@
 
 
 ### Hi there 👋, my name is Hayeon kim
-#### ~korean creative Developer~
+#### korean creative Developer
 ![~korean creative Developer~](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm always want to study more !
