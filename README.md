@@ -35,7 +35,6 @@ Skills:  PYTHON/MYSQL/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/hayeonkimm)  
 
 ![Profile views](https://gpvc.arturio.dev/hayeonkimm)  
      
