@@ -1,35 +1,83 @@
-<h1 align="center">Hi 👋, I'm Hayeon kim</h1>
-<h3 align="center">A passionate developer from south korea</h3>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=hayeonkimm&&style=flat-square" align="right" />
+</div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayeonkimm&label=Profile%20views&color=0e75b6&style=flat" alt="hayeonkimm" /> </p>
+  
 
+<br/>  
 
+## Hi There 👋  
 
-
-
-- 🔭 I’m currently working on **traffic accident project**
-- 🌱 I’m currently learning **python,ubuntu,spark,aws**
-- 📫 How to reach me **hayeon.data@gmail.com**
-- ⚡ Fun fact **I think I'm funny**
-
-
-
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<a href="https://github.com/hayeonkimm" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/lionly_lion" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+</a>
 
 
 
 
 
 
+### Hello, I'm Jiyeon Lee!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" /></p>
+Good day!
+
+I am a machine learning developer from South Korea 🇰🇷. I am interested in data science and deep learning and computer vision. I love reading, exercising and communicating! 
+
+If you want to contact me, please leave me a message!
+
+<br/>
+
+### 💫 Experience
+- **Samsung Multicampus** - Data Scientist & Engineering  *(May 2021 ~)*
+- Next Comming soon in Oct 2021 .
+
+<br/>  
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&locale=en" alt="hayeonkimm" /></p>
+
+### ✨ Summary
+
+- 🔭 I’m Studying on [Multicampus](https://www.multicampus.com/main/) as a Student.
+- 🌱 I'm currently learning Machine Learning, Engineering.
+- 📝 I regularly write articles on [my blog](hayeonkimm.github.io).  
+  
+
+<br/>  
+
+<div sttyle='float:left'>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+</div>
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 
 
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeoon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- ...
+-->
