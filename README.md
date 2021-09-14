@@ -28,11 +28,11 @@
    
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='310' /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayeonkimm&show_icons=true&locale=en&layout=compact" alt="hayeonkimm" width='1000' /></p>
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&locale=en" alt="hayeonkimm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&locale=en" alt="hayeonkimm" width='1000'/></p>
 
 
 
