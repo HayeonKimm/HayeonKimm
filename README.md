@@ -11,8 +11,7 @@
 <a href="https://github.com/hayeonkimm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/lionly_lion" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" /></a>
+
 
 
 
@@ -23,7 +22,7 @@
 
 #### Good day,
 
-I am interested in data science and machine learning and computer vision. 
+I am interested in Data science and Engineering
 
 I love reading, exercising and communicating! 
 
