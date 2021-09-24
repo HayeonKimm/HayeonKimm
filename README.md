@@ -24,7 +24,7 @@
 
 I am interested in **Data science** and **analysis**.
 
-I love **Adventure**, **Learning** , **taking a walk** and Something that **didn't exist before**
+I love **Adventure** , **Learning** , **taking a walk** and Something that **didn't exist before**
 
 I always look forward to **my growth**.
    
