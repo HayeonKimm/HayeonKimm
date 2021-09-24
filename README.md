@@ -22,11 +22,15 @@
 
 #### Good day,
 
-I am interested in Data science and Engineering
+I am interested in **Data science** and **analysis**.
 
-I love reading, exercising and communicating! 
+I love **Adventure**, **Learning** , **taking a walk** and Something that **didn't exist before**
 
-If you want to contact me, please leave me a message!
+I always look forward to **my growth**.
+   
+   
+   
+If you want to contact me, please leave me a message! --> [Email](hayeon.data@gmail.com/)
 
 <br/>
 
