@@ -22,7 +22,7 @@
 
 #### Good day,
 
-I am interested in **Data science** and **nalysis**.
+I am interested in **Data science** and **Analysis**.
 
 I love **Adventure** , **Learning** , **taking a walk** and Something that **didn't exist before**
 
