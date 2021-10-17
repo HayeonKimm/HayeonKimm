@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=hayeonkimm&&style=flat-square" align="right" />
 </div>  
 
-# *알고리즘 스터디 하실 분 모집합니다 ( chocokakao@naver.com 으로 연락주세요! )
 
 <br/>  
 
