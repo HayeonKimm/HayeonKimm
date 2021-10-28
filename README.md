@@ -35,7 +35,7 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 
 ### 💫 Experience
 - **Samsung Multicampus** - Data Scientist & Engineering Bootcamp   (May 2021 ~ Oct 2021)
-- **Code Lion x Socar** - Ai Engineer Bootcamp  (Oct 2021 ~     )
+- **Code Lion x Socar** - AI Engineer Bootcamp  (Oct 2021 ~     )
 
 <br/>  
 
