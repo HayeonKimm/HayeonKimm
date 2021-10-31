@@ -45,7 +45,7 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 ### ✨ Summary
 
 - 🔭 I Studied on [Samsung Multicampus](https://www.multicampus.com/main/) as a Student.
-- 🌱 I'm currently learning Machine Learning, Data Engineering.
+- 🌱 I'm currently learning Machine Learning
 - 📝 My History is Right here [Click](https://hayeonkimm.github.io/).  
   
 
