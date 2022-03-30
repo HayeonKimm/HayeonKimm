@@ -21,7 +21,6 @@
 
 #### Good day,
 
-I am interested in **Data science** and **Analysis**.
 
 I love **Adventure** , **Learning** , **taking a walk** and Something that **didn't exist before**
 
@@ -36,7 +35,6 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 ### 💫 Experience
 - **Samsung Multicampus** - Data Scientist & Engineering Bootcamp   (May 2021 ~ Oct 2021)
 - **Nipa** - AI Practical Basic & Practical Application   (Aug 2021 ~ Nov 2021)
-- **Code Lion x Socar** - AI Engineer Bootcamp  (Oct 2021 ~     )
 
 <br/>  
 
