@@ -35,6 +35,7 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 ### 💫 Experience
 - **Samsung Multicampus** - Data Scientist & Engineering Bootcamp   (May 2021 ~ Oct 2021)
 - **Nipa** - AI Practical Basic & Practical Application   (Aug 2021 ~ Nov 2021)
+- **Hanghae99** - Backend engineer (May 2022 ~ August 2022) 
 
 <br/>  
 
@@ -45,7 +46,7 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 
 - 🔭 I Studied on [Samsung Multicampus](https://www.multicampus.com/main/) as a Student.
 - 🌱 I'm currently learning Machine Learning
-- 📝 My History is Right here [Click](https://hayeon31.github.io/).  
+- 📝 My History is Right here [Click](https://hayeonkimm.github.io/).  
   
 
 <br/>  
