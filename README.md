@@ -46,6 +46,7 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 ### ✨ Summary
 
 - 🔭 I Studied on [Samsung Multicampus](https://www.multicampus.com/main/) as a Student.
+- Now I'm studying in Hanghae99 about web backend skills
 - 📝 My History is Right here [Click](https://hayeonkimm.github.io/).  
   
 
