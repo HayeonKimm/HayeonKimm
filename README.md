@@ -22,7 +22,7 @@
 #### Good day,
 
 
-I love **Adventure** , **Learning** , **taking a walk** and Something that **didn't exist before**
+I love **Learning** , **taking a walk** and Something that **didn't exist before**
 
 I always look forward to **my growth**.
    
