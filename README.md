@@ -35,7 +35,6 @@ If you want to contact me, please leave me a message! --> [Email](hayeon.data@gm
 ### 💫 Education
 - **Hongik University (Seoul)** - Urban Engineering & Planning (Mar 2015 ~ Oct 2021)
 - **Samsung Multicampus** - Data Scientist & Engineering Bootcamp   (May 2021 ~ Oct 2021)
-- **NIPA** - AI Practical Basic & Practical Application   (Aug 2021 ~ Nov 2021)
 - **Hanghae99** - Backend engineer (May 2022 ~ August 2022) 
 
 <br/>  
