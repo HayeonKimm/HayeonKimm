@@ -30,6 +30,8 @@ I always look forward to **my growth**.
    
 If you want to contact me, please leave me a message! --> [Email](hayeon.data@gmail.com/)
 
+My Blog --> [Blog](https://summerlaftel07.tistory.com/)
+
 <br/>
 
 ### 💫 Education
