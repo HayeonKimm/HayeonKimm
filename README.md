@@ -13,6 +13,10 @@
 
 
 
+### - 📝 My Blog [Click](https://summerlaftel07.tistory.com/)<br>
+
+### - 🌱 My History [Click](https://hayeonkimm.github.io/).  <br><br>
+
 
 
 
@@ -26,29 +30,12 @@ I love **Learning** , **taking a walk** and Something that **didn't exist before
 
 I always look forward to **my growth**.
    
-   
-   
-If you want to contact me, please leave me a message! --> [Email](hayeon.data@gmail.com/)
 
-My Blog --> [Blog](https://summerlaftel07.tistory.com/)
 
 <br/>
 
-### 💫 Education
-- **Hongik University (Seoul)** - Urban Engineering & Planning (Mar 2015 ~ Oct 2021)
-- **Samsung Multicampus** - Data Scientist & Engineering Bootcamp   (May 2021 ~ Oct 2021)
-- **Hanghae99** - Backend engineer (May 2022 ~ August 2022) 
-
-<br/>  
 
 
-
-
-### ✨ Summary
-
-- 🔭 I Studied on [Samsung Multicampus](https://www.multicampus.com/main/) as a Student.
-- Now I'm studying in Hanghae99 about web backend skills
-- 📝 My History is Right here [Click](https://hayeonkimm.github.io/).  
   
 
 <br/>  
@@ -58,7 +45,7 @@ My Blog --> [Blog](https://summerlaftel07.tistory.com/)
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="100" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="100" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Git" height="100" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="100" />
 
@@ -86,7 +73,7 @@ My Blog --> [Blog](https://summerlaftel07.tistory.com/)
 
 <br/>  
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
