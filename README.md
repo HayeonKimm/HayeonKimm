@@ -13,9 +13,9 @@
  -->
 
 
-### - 📝 My Blog [Click](https://summerlaftel07.tistory.com/)<br>
+### 📝 My Blog [Click](https://summerlaftel07.tistory.com/)<br>
 
-### - 🌱 My History [Click](https://hayeonkimm.github.io/) <br><br>
+### 🌱 My History [Click](https://hayeonkimm.github.io/) <br><br>
 
 
 
