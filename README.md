@@ -13,10 +13,6 @@
  -->
 
 
-### 📝 My Blog [Click](https://summerlaftel07.tistory.com/)<br>
-
-### 🌱 My History [Click](https://hayeonkimm.github.io/) <br><br>
-
 
 
 
@@ -28,11 +24,14 @@
 
 I love **Learning** , **taking a walk** and Something that **didn't exist before**
 
-I always look forward to **my growth**.
-   
+I always look forward to **my growth**. <br><br><br>
 
 
-<br/>
+
+
+### 📝 My Blog [Click](https://summerlaftel07.tistory.com/)<br>
+
+### 🌱 My History [Click](https://hayeonkimm.github.io/) <br><br>
 
 
 
