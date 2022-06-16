@@ -34,6 +34,9 @@ I always look forward to **my growth**. <br><br><br>
 ### 🌱 My History [Click](https://hayeonkimm.github.io/) <br><br>
 
 
+contact: chocokakao@naver.com
+
+
 
   
 
