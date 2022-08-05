@@ -5,6 +5,10 @@
 
 <br/>  
 
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hayeon.data@gmail.com)
+[![blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://summerlaftel07.tistory.com/)
+
+
 # Hi There 👋  
 <br>
 <!-- <a href="https://github.com/hayeonkimm" target="_blank">
@@ -29,12 +33,6 @@ I always look forward to **my growth**. <br><br><br>
 
 
 
-### 📝 My Blog [Click](https://summerlaftel07.tistory.com/)<br>
-
-### 🌱 My History [Click](https://hayeonkimm.github.io/) <br><br>
-
-
-contact: chocokakao@naver.com
 
 
 
@@ -59,19 +57,14 @@ contact: chocokakao@naver.com
 </div>
 
 <br/>  
+<br>
+<br>
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeonkimm&show_icons=true&theme=cobalt&hide=contribs,prs)
 
 
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeonkimm&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
