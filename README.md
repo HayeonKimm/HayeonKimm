@@ -38,8 +38,6 @@ I always look forward to **my growth**. <br><br><br>
 
   
 
-<br/>  
-
 <div style='float:left'>
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Git" height="90" />
