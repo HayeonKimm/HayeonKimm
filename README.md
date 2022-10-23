@@ -36,7 +36,7 @@ I always look forward to **my growth**. <br><br><br>
 
 
 
-  
+### My Stacks
 
 <div style='float:left'>
 
@@ -46,6 +46,14 @@ I always look forward to **my growth**. <br><br><br>
 <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br>
+<br>
+
+### Studying Now
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 
 <!--
